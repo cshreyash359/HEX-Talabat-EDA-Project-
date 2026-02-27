@@ -2,7 +2,7 @@
 
 # Objective
 
-Perform Exploratory Data Analysis on Talabet food delivery dataset using python
+Perform Exploratory Data Analysis on Talabat food delivery dataset using python
 ## Tools Used
 
 * Python
